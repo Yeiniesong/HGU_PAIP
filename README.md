@@ -21,7 +21,9 @@
 
 본 가이드와 프로젝트 코드는 다음 주소에서 확인할 수 있다.
 
-{% embed url="https://github.com/Yeiniesong/HGU\_PAIP/tree/master" %}
+{% embed url="https://github.com/Yeiniesong/HGU\_PAIP/tree/master" caption="Github: Project Code" %}
+
+{% embed url="https://yeiniesong.gitbook.io/hgu\_piap/" caption="Gitbook: Guide" %}
 
 
 
