@@ -3,3 +3,9 @@ resources/** filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 Project_Fault[[:space:]]Detection/** filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+Project2_Object[[:space:]]Detection/** filter=lfs diff=lfs merge=lfs -text
+Project3_Reinforcement[[:space:]]Learning/** filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Code[[:space:]]file/** filter=lfs diff=lfs merge=lfs -text
