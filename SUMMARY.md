@@ -32,7 +32,6 @@
 * [4.1. Why use ML in Self-driving?](4.-reinforcement-learning/4.1..md)
 * [4.2. Why Reinforcement Learning?](4.-reinforcement-learning/4.2..md)
 * [4.3. AWS DeepRacer](4.-reinforcement-learning/4.3..md)
-* [4.4. PPO\(Proximal Policy Optimization\)](4.-reinforcement-learning/4.4..md)
-* [4.5. Project3: Self-driving](4.-reinforcement-learning/4.5..md)
-* [4.6. Issues & Future Work](4.-reinforcement-learning/4.6..md)
+* [4.4. Project3: Self-driving](4.-reinforcement-learning/4.4..md)
+* [4.5. Issues & Future Work](4.-reinforcement-learning/4.5..md)
 
