@@ -17,6 +17,7 @@
 * [2.6. Confusion Matrix](2.-time-series-data/2.6..md)
 * [2.7. Project1: Fault Detection](2.-time-series-data/2.7..md)
 * [2.8. Issues & Future Work](2.-time-series-data/2.8..md)
+* [2.9. Future Work](2.-time-series-data/2.9..md)
 
 ## 3. 객체인식\(Object Recognition\) 프로젝트
 
