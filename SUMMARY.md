@@ -25,7 +25,8 @@
 * [3.3. Object Recognition: YOLO](3.-object-recognition/3.3..md)
 * [3.4. OCR: Tesseract](3.-object-recognition/3.4..md)
 * [3.5. Project2: LPR](3.-object-recognition/3.5..md)
-* [3.6. Issues & Future Work](3.-object-recognition/3.6..md)
+* [3.6. Issues: Korean Recognition](3.-object-recognition/3.6..md)
+* [3.7. Future Work](3.-object-recognition/3.7..md)
 
 ## 4. 강화 학습\(Reinforcement Learning\) 프로젝트
 
@@ -33,5 +34,6 @@
 * [4.2. Why Reinforcement Learning?](4.-reinforcement-learning/4.2..md)
 * [4.3. AWS DeepRacer](4.-reinforcement-learning/4.3..md)
 * [4.4. Project3: Self-driving](4.-reinforcement-learning/4.4..md)
-* [4.5. Issues & Future Work](4.-reinforcement-learning/4.5..md)
+* [4.5. Issues: Sim-real Gap](4.-reinforcement-learning/4.5..md)
+* [4.6. Future Work](4.-reinforcement-learning/4.6..md)
 
